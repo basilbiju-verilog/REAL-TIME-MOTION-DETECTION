@@ -21,8 +21,6 @@ Real-time motion detection using a **Digilent Cmod A7** FPGA and a laptop webcam
 - [Troubleshooting](#troubleshooting)
 - [Known Limitations](#known-limitations)
 - [Future Work](#future-work)
-- [License](#license)
-
 ---
 
 ## Overview
@@ -220,11 +218,3 @@ Try another index with `--camera 1`, and make sure no other application is using
 - Make `THRESHOLD` adjustable at runtime over UART
 - Wrap-safe frame-number comparison
 - Higher-throughput interface (for example a faster USB-UART or SPI) and higher resolution
-
-## License
-
-Add your license here (for example MIT) and include a `LICENSE` file.
-
-## Author
-
-**Your Name**: add your GitHub profile link here.
